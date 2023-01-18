@@ -1,4 +1,4 @@
-#Dining Restaurant Landing Page
+# Dining Restaurant Landing Page
 
 This website is completely Mobile responsive.
 It includes various sections and each has its own features.
