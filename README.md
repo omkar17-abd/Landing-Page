@@ -1,7 +1,8 @@
 # Dining Restaurant Landing Page
 
 This website is completely Mobile responsive.
-It includes various sections and each has its own features.
+
+It includes various sections and each one has its own features.
 
 ## Getting Started with Create React App
 To create any react application use : npx create-react-app Project_Name
